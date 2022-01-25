@@ -1,2 +1,5 @@
-# Java-with-Angular
-It is a test with frontend designed with Angular and WebServices with JavaEE
+# JavaEE-REST
+This is a WebService built with JavaEE and RESTful Web Services.
+
+Return the information in JSON format.
+
